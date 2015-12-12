@@ -205,7 +205,7 @@
     position: relative;
     height: 70px;
     width: 100px;
-    background-color: rgb(14, 171, 219);
+    background-color: rgb(0, 160, 232);
     border:1px solid black;
     left: 149px;
 }
@@ -273,7 +273,7 @@
     display:block;
     height:40px;
     width: 20px;
-    background-color:  rgb(14, 171, 219);
+    background-color: rgb(0, 160, 232);
     border: solid 1px black;
     z-index:-10;
 }
